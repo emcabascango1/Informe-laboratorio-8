@@ -7,7 +7,8 @@
 ## Caracteristicas de la onda senoidal
 
 ### OBJETIVO GENERAL
-- Identificar una forma de onda sinusoidal y medir sus características.
+
+- Identificar una forma de onda senoidal y sus caracteristicas.
 
 ### OBJETIVO ESPECÍFICOS
 - Observar la onda sinusoidal medida por el osciloscopio al resistor de carga RL utilizando el simulador Proteus 8.
@@ -53,7 +54,7 @@ En el valor de 3V
  
 - ¿En qué valor está posicionada la perilla TIME/DIV? 
  
-0.1m
+0.1ms
 
 ### 4.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 - Amplitud de voltaje:
@@ -88,7 +89,7 @@ En el valor de 3V
  
 -¿Por qué?
 
-Porque en el punto 4.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico además de que el valor pico de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 4.7 el voltaje medido fue con un multimetro por ende nos dio un valor rms. El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms. Si queremos transformar el valor pico que nos dio en el punto 5.5 a valor rms, realizamos el siguiente cálculo.
+Porque en el punto 4.5 medimos la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico además de que el valor pico de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 4.7 el voltaje medido fue con un multimetro por ende nos dio un valor rms. El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms. Si queremos transformar el valor pico que nos dio en el punto 5.5 a valor rms, realizamos el siguiente cálculo.
 
 ![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.8.PNG)   
  
