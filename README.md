@@ -18,7 +18,7 @@
 
 ## 2. MARCO TEÓRICO
 
-
+[![Mapa-mental.jpg](https://i.postimg.cc/X7Ps58QY/Mapa-mental.jpg)](https://postimg.cc/3dgj52ss)
 
 ## 3. MATERIALES Y EQUIPOS
 
