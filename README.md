@@ -80,13 +80,13 @@ En el valor de 3V
 
 4.8V 
 
-### 4.8. Compare el voltaje medido en el punto 4.5. y el obtenido en el punto 4.7.
+### 4.8.  Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
-- ¿Coinciden?
+-¿Coinciden?
 
  No coinciden
  
--  ¿Por qué?
+-¿Por qué?
 
 Porque en el punto 4.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico además de que el valor pico de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 4.7 el voltaje medido fue con un multimetro por ende nos dio un valor rms. El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms. Si queremos transformar el valor pico que nos dio en el punto 5.5 a valor rms, realizamos el siguiente cálculo.
 
