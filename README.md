@@ -19,26 +19,29 @@
 
 ## 3. MATERIALES Y EQUIPOS
 
-
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/materiales.PNG) 
 
 ## 4. PROCEDIMIENTO
 
 ### 4.1.- Implemente el circuito que se presenta en la figura 7.1
 
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/1.PNG) 
 
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/1.1.PNG)    
 
 ### 4.2.- Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/2.PNG)     
 
 ### 4.3.- Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/3.PNG)     
 
 ### 4.4.- Responda las siguientes preguntas:
 
 - ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-2.3 aproximadamente
+2.3 cuadros aproximadamente
 
 - ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
@@ -61,33 +64,33 @@ En el valor de 3V
 
 0.0004(s)
 
-### 4.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+### 4.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.6.1.PNG)    
 
 - f:1500(Hz)
 
-
+ ![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.6.2.PNG)   
 
 - ω: 15707.96(rad/s)
 
 ### 4.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.7.PNG)   
 
 4.8V 
 
 ### 4.8. Compare el voltaje medido en el punto 4.5. y el obtenido en el punto 4.7.
+
 - ¿Coinciden?
-- 
- no coinciden
+
+ No coinciden
  
 -  ¿Por qué?
 
-Porque en el punto 4.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico además de que el valor pico de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 4.7 el voltaje medido fue con un multimetro por ende nos dio un valor rms. El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms. Si queremos transformar el valor pico que nos dio en el punto 5.5 a valor rms, realizamos el siquien cálculo.
+Porque en el punto 4.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico además de que el valor pico de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 4.7 el voltaje medido fue con un multimetro por ende nos dio un valor rms. El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms. Si queremos transformar el valor pico que nos dio en el punto 5.5 a valor rms, realizamos el siguiente cálculo.
 
-
+![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.8.PNG)   
  
  ## 8. CONCLUSIONES
 - La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
