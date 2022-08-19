@@ -6,11 +6,13 @@
 
 ## Caracteristicas de la onda senoidal
 
-### OBJETIVO GENERAL
+## 1. OBJETIVOS
+
+### 1.1. OBJETIVO GENERAL
 
 - Identificar una forma de onda senoidal y sus caracteristicas.
 
-### OBJETIVO ESPECÍFICOS
+### 1.2. OBJETIVO ESPECÍFICOS
 - Observar la onda sinusoidal medida por el osciloscopio al resistor de carga RL utilizando el simulador Proteus 8.
 - Aplicar de manera eficiente los términos vistos anteriormente en la materia de Física.
 
@@ -94,7 +96,7 @@ Porque en el punto 4.5 medimos la amplitud de voltaje mediante un osciloscopio e
 ![](https://github.com/emcabascango1/Informe-laboratorio-8/blob/main/Im%C3%A1genes/4.8.PNG)   
  
  ## 8. CONCLUSIONES
-- La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
+- La forma de onda senoidal es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
 - Un osciloscopio realiza mediciones cuantitativas y cualitativas.
 - Un multímetro digital realiza controles de alta precisión de la tensión, corriente, impedancia y de otros parámetros eléctricos.
 - Una onda seno puede representarse gráficamente mediante valores de voltaje o corriente el eje vertical y por una medición angular (grados o radianes) a lo largo del eje horizontal.
